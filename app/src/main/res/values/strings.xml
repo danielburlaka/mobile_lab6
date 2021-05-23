@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="title_home">Student</string>
+    <string name="title_dashboard">Charts</string>
+    <string name="title_movies">Books</string>
+    <string name="title_pics">Pictures</string>
+    <string name="search_bar">Search</string>
+    <string name="add_item">Add</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="add_pic_button">Add</string>
+</resources>
